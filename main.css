@@ -282,6 +282,7 @@ input#message{
 footer{
     background-color: #000000;
     display: block;
+    margin-top: 10%;
 }
 .footer-section{
     display: flex;
