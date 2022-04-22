@@ -399,7 +399,13 @@ nav :checked ~ .burger-icon .line:nth-child(2) {
     .location{
         max-width: 100vw;
     }
+.contact-more{
+    font-size: 2.5rem;
+}
 
+.contact-more p{
+    font-size: 1.5rem;
+}
     .form-container{
        width: 100vw;
     }
@@ -414,5 +420,8 @@ nav :checked ~ .burger-icon .line:nth-child(2) {
     .footer-logo{
         align-self: center;
     }
- 
+ .review-container{
+
+    margin: 0.3rem;
+ }
 }
